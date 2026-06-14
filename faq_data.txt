@@ -1,0 +1,29 @@
+What is AI?
+AI stands for Artificial Intelligence, which enables machines to simulate human intelligence.
+
+What is Machine Learning?
+Machine Learning is a subset of AI that allows computers to learn from data.
+
+What is Python?
+Python is a high-level programming language used in AI, web development, and data science.
+
+What is NLP?
+Natural Language Processing helps computers understand and process human language.
+
+What is ChatGPT?
+ChatGPT is an AI chatbot developed by OpenAI.
+
+What is Deep Learning?
+Deep Learning is a branch of Machine Learning based on neural networks.
+
+Why is Python popular?
+Python is easy to learn and has powerful libraries for AI and data science.
+
+What are the applications of AI?
+AI is used in healthcare, finance, education, robotics, and many other fields.
+
+Who developed Python?
+Python was created by Guido van Rossum.
+
+What is Data Science?
+Data Science is the study of extracting useful information from data.
